@@ -1,0 +1,678 @@
+&:dan
++:tambah
+/:atau
+=:sama dengan
+ababil:anak ingusan
+abal2:palsu
+abal:palsu
+ad:ada
+adres:alamat
+address:alamat
+ade:adik
+adek:adik
+adain:adakan
+af:sekali
+aj:saja
+aja:saja
+ajah:saja
+apa2:apa apa
+anj:anjing
+apah:apa
+akooh:aku
+alay:norak
+azada:lazada
+alhamdulillah:alhamdulilah
+alhmadlah:alhamdulilah
+alhmdhl:alhamdulilah
+alhmdl:alhamdulilah
+alhmdlah:alhamdulilah
+alhmdlh:alhamdulilah
+alhmdulah:alhamdulilah
+albm:album
+alakadar:seadanya
+ampe:sampai
+anjir:waw
+andri:antre
+anterin:antarkan
+anyway:ngomong-ngomong
+apik:bagus
+aq:aku
+asap:secepatnya
+and:dan
+ato:atau
+atao:atau
+atw:atau
+ava:foto profil
+banget:sekali
+balikin:kembalikan
+baget:keras kepala
+baper:bawa perasaan
+bapuk:rusak
+bcr:bicara
+batre:baterai
+batere:baterai
+bebeb:pacar
+begin:awal
+bejibun:bertumpuk banyak
+bener:benar
+ber2:berdua
+ber3:bertiga
+bf:pacar
+bgt:sekali
+bnget sekali
+bhas:bahas
+bhg:bahagia
+bikin:buat
+binggo:banget
+bingit:banget
+bklan:bakalan
+bkn:bukan
+blg:bilang
+bnr:benar
+bnyk:banyak
+br:baru
+brb:akan segera kembali
+brjaya:berjaya
+bs:bisa
+bsa:bisa
+bsk:besok
+brg:barang
+brang:barang
+brng:barang
+blum:belum
+blom:belum
+btw:ngomong-ngomong
+bwt:buat
+bgs:bagus
+bgt:banget
+bgus:bagus
+buyer:pembeli
+bsr:besar
+bsar:besar
+cm:cuma
+ccd:cacat
+cowo:cowok
+cewe:cewek
+cct:cacat
+cmn:cuma
+cman:cuma
+cmiiw:koreksi saya
+cnt:cinta
+cs:customer service
+congrats:selamat
+cod:bayar di tempat
+crop:potong
+cpt:cepat
+cpat:cepat
+cya:sampai jumpa lagi
+d:di
+da:ada
+dah:sudah
+dapt:dapat
+dapet:dapat
+dafuk:kurang ajar
+damat:tidak peduli
+dempa:demi apa
+dech:deh
+dpn:depan
+dg:dengan
+dgn:dengan
+deket:dekat
+dkt:dekat
+dlm:dalam
+dlu:dulu
+dmn:dimana
+dpt:dapat
+dr:dari
+dri:dari
+drpd:daripada
+dsna:disana
+dugem:dunia gemerlap
+design:desain
+dtg:datang
+dtang:datang
+elo:kamu
+elu:kamu
+enggak:tidak
+engga:tidak
+expedisi:ekspedisi
+ekpedisi:ekspedisi
+emg:memang
+emng:memang
+epsd:episode
+fast:cepat
+fake:falsu
+fans:penggemar
+fans:penggemar
+faq:pertanyaan umum
+fham:paham
+fhm:paham
+fb:facebook
+fix:pasti
+ft:foto
+fyi:asal tahu saja
+fs:flash sale
+flasale:flash sale
+flashsale:flash sale
+fles:flash
+for:untuk
+g:tidak
+ga:tidak
+gaada:tidak ada
+gabut:gaji buta
+gada:tidak ada
+gajebo:tidak jelas
+gak:tidak
+gan:juragan
+galau:bimbang
+garing:hambar
+gatau:tidak tahu
+geje:tidak jelas
+gengges:ganggu
+gf:pacar
+ggl:gagal
+gk:tidak
+gold:emas
+god:bagus
+gmn:bagaimana
+gmpng:gampang
+gokil:gila
+gwe:aku
+hand:tangan
+gapapa:tidak apa apa
+gpp:tidak apa apa
+gakpapa:tidak apa apa
+grammar:tata bahasa
+gt:gitu
+gue:aku
+gw:aku
+gw:aku
+hbd:happy birthday
+hp:telepon genggam
+hape:telepon genggam
+handphone:telepon genggam
+haeduh:aduh
+hacep:pesta pora
+hater:pembenci
+haters:pembenci
+hdp:hidup
+hrg:harga
+hrga:harga
+hdr:hadir
+hit:terpopuler
+hits:terkini
+hoax:palsu
+ig:instagram
+idup:hidup
+indo:indonesia
+iow:dengan kata lain
+ipon:iphone
+item:hitam
+jos:mantap
+joz:mantap
+jd:jadi
+jdi:jadi
+jdnya:jadinya
+jg:juga
+jgan:jangan
+jngn:jangan
+jgn:jangan
+jl:jalan
+jln:jalan
+jls:jelas
+jutek:galak
+k:ke
+ko:kok
+kamseupay:kampungan
+karn:karena
+krn:karena
+karna:karena
+krna:karena
+kbr:kabar
+kca:kaca
+keknya:kayaknya
+keles:kali
+keleus:kali
+kepo:penasaran
+kgk:kagak
+kicep:diam
+kipak:bohong
+kog:kok
+kk:kakak
+kl:kalau
+klo:kalau
+klu:kalau
+kalo:kalau
+kalok:kalau
+klon:duplikat
+klrg:keluarga
+klu:kalau
+km:kamu
+kmn:kemana
+kmrn:kemarin
+kcil:kecil
+kcl:kecil
+kn:kan
+knp:kenapa
+knpa:kenapa
+kongkow:kumpul-kumpul
+kpd:kepada
+kpn:kapan
+krn:karena
+krm:kirim
+krim:kirim
+krna:karena
+ktny:katanya
+kumkeb:kumpul kebo
+kyk:kayak
+kagak:tidak
+kyak:kayak
+kzl:kesal
+kwalitas:kualitas
+lbh:lebih
+lebay:berlebihan
+lebeh:berlebihan
+lelet:lambat
+lg:lagi
+lgs:langsung
+liat:lihat
+lnjut:lanjut
+lo:kamu
+loh:lho
+lom:belum
+lol:tertawa
+love:cinta
+lwt:lewat
+maaci:terima kasih
+mabok:mabuk
+mager:malas gerak
+maharani:mahal
+maho:homoseksual
+mainstream:sangat umum
+males:malas
+mcm:macam
+mehong:mahal
+meneketehe:tidak tahu
+menel:centil
+mgkn:mungkin
+mimin:admin
+minn:admin
+mkn:makan
+mksd:maksud
+mksud:maksud
+mksh:terima kasih
+mlm:malam
+mlm:malam
+mls:malas
+mmg:memang
+modus:maksud lain
+mrk:mereka
+mrka:mereka
+mayan:lumayan
+muantap:mantap
+mantaf:mantap
+mantep:mantap
+mntap:mantap
+mantab:mantap
+much:lebih
+mure:murah
+mw:mau
+n:dan
+naek:naik
+nelpon:menelepon
+nelfon:menelepon
+ngeh:paham
+ngeuh:paham
+ndak:tidak
+nggak:tidak
+nggu:menunggu
+ngliat:melihat
+ngeliat:melihat
+ngga:tidak
+nga:tidak
+ngk:tidak
+nice:bagus
+nmr:nomor
+no:nomor
+nongkrong:kumpul-kumpul
+ntn:nonton
+nntn:nonton
+ntaps:mantap
+ntap:mantap
+mantul:mantap betul
+nyampe:sampai
+nyampek:sampai
+nyungsep:jatuh
+nyesal:menyesal
+nyesel:menyesal
+official:resmi
+olh:oleh
+or:atau
+ori:asli
+org:orang
+ongkir:ongkos kirim
+ok:oke
+overal:secara keseluruhan
+overall:secara keseluruhan
+on hand: di tangan
+olshop:toko online
+pa:apa
+pake:pakai
+pakek:pakai
+palbis:paling bisa
+pcr:pacar
+pcran:pacaran
+pd:pada
+pdhal:padahal
+peres:palsu
+pg:pagi
+pgg:pegang
+php:pemberi harapan palsu
+pk:pakai
+paking:packing
+keep:tetap
+plg:pulang
+pesen:pesan
+pls:tolong
+pnh:pernah
+pntg:penting
+pny:punya
+pingin:ingin
+pengen:ingin
+pgn:ingin
+prasmul:perasaan saja
+prcya:percaya
+pls:tolong
+please:tolong
+prnh:pernah
+pst:pesat
+psti:pasti
+pcs:buah
+rapih:rapi
+recokin:ganggu
+rempong:repot
+ri:republik indonesia
+rotfl:tertawa
+rbu:ribu
+rb:ribu
+romo:promo
+rocker:voucher
+respons:respon
+response:respon
+recomen:direkomendasikan
+recomended:direkomendasikan
+recommended:direkomendasikan
+rekomended:direkomendasikan
+recommend:direkomendasikan
+sabeb:bebas
+schedule:jadwal
+sdh:sudah
+selow:santai
+seller:penjual
+sgt:sangat
+sgtu:segitu
+sgtuny:segitunya
+sh:masih
+sjjurny:sejujurnya
+skali:sekali
+skrg:sekarang
+seneng:senang
+slh:salah
+sll:selalu
+ssuai:sesuai
+sm:sama
+smg:semoga
+smga:semoga
+smoga:semoga
+smw:semua
+smp:sampai
+smwnya:semuanya
+stage:panggung
+stj:setuju
+stuju:setuju
+sprt:seperti
+sprti:seperti
+sperti:seperti
+sy:saya
+sya:saya
+syg:sayang
+sel:sale
+sampek:sampai
+spek:spesifikasi
+td:tadi
+tdk:tidak
+tpat:tepat
+tpt:tepat
+tengsin:malu
+tebel:tebal
+thn:tahun
+tik:cantik
+tkt:takut
+tp:tapi
+tpii:tapi
+trs:terus
+trus:terus
+ttg:tentang
+ttp:tetap
+ttep:tetap
+tetep:tetap
+tlpon:telpon
+tw:tau
+typo:salah tulis
+trimakasih:terima kasih
+trims:terima kasih
+trim:terima
+timbang:dibanding
+tg:tempered glass
+tks:thanks
+tq:terima kasih
+u:kamu
+utk:untuk
+unyu:menggemaskan
+uda:sudah
+udh:sudah
+wa:whatsapp
+walo:walau
+walao:walau
+with:dengan
+woles:santai
+wtf:apa-apaan
+x:kali
+xiomi:xiaomi
+xiomie:xiaomi
+y:ya
+yak:ya
+yg:yang
+yng:yang
+ninjavanid:ninja van
+jeng:jangan
+klesuruah:keseluruhan
+ransel:dibatalkan
+cancel:dibatalkan
+cansel:dibatalkan
+smpai:sampai
+for:untuk
+handsfre:handsfree
+hihihi:tertawa
+hehehe:tertawa
+hahaha:tertawa
+wkwkwk:tertawa
+ckckck:heran
+id:indonesia
+kayak:seperti
+birthday:ulang tahun
+brithday:ulang tahun
+thank:terima kasih
+ati:hati
+adin:adakan
+aga:agak
+merek:merk
+ane:saya
+bingitz:banget
+godjob: good job
+akirnya:akhirnya
+tingi:tinggi
+by:beli
+best:terbaik
+delivery:pengiriman
+vocher:voucher
+vocer:voucher
+atm:anjungan tunai mandiri
+money:uang
+adin:adain
+hole:lubang
+bas:bass
+depak:depok
+woto:bernilai
+worth:bernilai
+copot:lepas
+kagak:tidak
+cape:capek
+cas:charge
+error:rusak
+quality:kualitas
+mesan:memesan
+terimakasih:terima kasih
+notification:pemberitahuan
+nyalain:nyalakan
+packing:pengemasan
+peking:pengemasan
+paking:pengemasan
+unique:unik
+nyampe:sampai
+si:sih
+perfect:sempurna
+size:ukuran
+free:gratis
+pict:gambar
+picture:gambar
+real:memang
+moga:semoga
+nyangka:menyangka
+kirain:dikira
+fake:palsu
+kw:palsu
+marketing:pemasaran
+refund:pengembalian dana
+komplain:keluhan
+komplen:keluhan
+les:lex
+kah:kasih
+review:ulasan
+digratisun:gratis
+naomi:xiaomi
+trusted:terpercaya
+cip:sip
+sep:sip
+birthday:ulang tahun
+original:asli
+invite:undang
+meeting:pertemuan
+markotop:sekali
+markusip:sekali
+gandos:sekali
+smartphone:telepon genggam cerdas
+xpress:express
+ekspress:express
+black:hitam
+blue:biru
+very:sangat
+not:tidak
+on:tepat
+time:waktu
+good:bagus
+bad:jelek
+product:produk
+carger:charger
+temper:tempered
+awesome:luar biasa
+amazing:luar biasa
+item:barang
+kilatan:kelihatan
+simple:sederhana
+simpel:sederhana
+poko:pokok
+txs:terima kasih
+order:pemesanan
+performance:performa
+service:pelayanan
+you:kamu
+worthed:bernilai
+like:suka
+choice:pilihan
+top:teratas
+tyas:terima kasih
+rendy:siap
+ready:siap
+original:asli
+orisinal:asli
+orisinil:asli
+job:pekerjaan
+nunggu:menunggu
+nungguin:menunggu
+couple:pasangan
+gadget:gawai
+online:daring
+via:lewat
+invite:faktur
+fans:penggemar
+is:adalah
+teh:yang
+the:yang
+ulangtahun:ulang tahun
+radak:agak
+rada:agak
+now:sekarang
+display:tampilan
+gift:hadiah
+min:admin
+useful:berguna
+powerful:bertenaga
+power:tenaga
+powerbank: power bank
+attitude:sikap
+warp:wrap
+card:kartu
+eror:error
+high:tinggi
+figur:fitur
+accept:terima
+account:akun
+acceptable:dapat diterima
+aceptable:dapat diterima
+accesories:aksesoris
+acesories:aksesoris
+aksesori:aksesoris
+acomplished:tercapai
+accomplished:tercapai
+afordable:terjangkau
+affordable:terjangkau
+verified:verifikasi
+verikasi:verifikasi
+voucer:voucher
+walapun:walaupun
+watching:menonton
+waterprof:tahan air
+waterproof:tahan air
+wedding:pernikahan
+world:dunia
+wrap:bungkus
+plis:mohon
+please:mohon
+official:resmi
+trprcaya:terpercaya
+trobosan:terbosan
+trlmbt:terlambat
+transfers:transfer
+thebest:terbaik
+terbaique:terbaik
+tempereglas:tempered glass
+tempergras:tempered glass
+temprglas:tempered glass
+tangungjawab:tanggung jawab
+trimaksi:terima kasih
+trimkasi:terima kasih
+sofcase:soft case
+softcas:soft case
+softcast:soft case
+slnjtnya:selanjutnya
